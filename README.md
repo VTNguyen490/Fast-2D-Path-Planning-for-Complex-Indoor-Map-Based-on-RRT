@@ -4,7 +4,7 @@
 
 **Student**
 
-Nguyen Viet Tung - link to Github page
+Nguyen Viet Tung
 
 **Supervisor**
 
@@ -76,5 +76,6 @@ To test the RRT* algorithm, change the start, goal position as well as the map s
 To compare it with the base RRT algorithm, do similarly to the RRT* algorithm but with the file ```RRT.py```.
 
 You can set the parameter ```find_rs_path = True``` for the algorithm to find the Reeds-Shepp path afterward. The turning radius is being set to 25 for the algorithm.
+
 
 If you want to test with your own map, just enter the path to the image as one of the parameter for the function. Make sure that the path is of one of the basic format (jpg, jpeg png, ...) and should be in black and white (obstacles - black and free space - white)
